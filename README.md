@@ -1,6 +1,6 @@
 # Pop songs analysis
 ## Data collection
-See https://src-code.simons-rock.edu/git/mbarsky/pop_songs_project/src/master/DATA_COLLECTION.md
+See https://github.com/mgbarsky/research_pop_songs/blob/main/DATA_COLLECTION.md
 
 ## Analytics
-See https://src-code.simons-rock.edu/git/mbarsky/pop_songs_project/src/master/DATA_ANALYSIS.md
+See https://github.com/mgbarsky/research_pop_songs/blob/main/DATA_ANALYSIS.md
