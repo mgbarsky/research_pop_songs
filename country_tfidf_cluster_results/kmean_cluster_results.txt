@@ -1,0 +1,53 @@
+K-mean Pearson Clustering results for 'country_tfidf_cluster.csv'
+
+k=2:
+clusters by pearson correlation
+cluster 1:
+['Argentina', 'Austria', 'Belgium', 'Chile', 'China', 'France', 'Greece', 'Italy', 'Japan', 'Netherlands', 'Russia', 'Spain', 'Switzerland', 'Ukraine']
+cluster 2:
+['Australia', 'Brazil', 'Bulgaria', 'Canada', 'Denmark', 'Finland', 'German', 'India', 'Ireland', 'New Zealand', 'Norway', 'Portugal', 'Sweden', 'UK Singles', 'USA Singles']
+
+k=3:
+cluster 0:
+['Argentina', 'Austria', 'Chile', 'Greece', 'Japan', 'Russia', 'Spain', 'Switzerland']
+cluster 1:
+['Australia', 'Belgium', 'Bulgaria', 'China', 'Denmark', 'France', 'India', 'Ireland', 'Netherlands', 'New Zealand', 'Portugal']
+cluster 2:
+['Brazil', 'Canada', 'Finland', 'German', 'Italy', 'Norway', 'Sweden', 'UK Singles', 'USA Singles', 'Ukraine']
+
+k=4:
+cluster 0:
+['Belgium', 'Bulgaria', 'Canada', 'Denmark', 'Finland', 'Ireland', 'New Zealand', 'Norway', 'Portugal', 'Sweden', 'UK Singles', 'USA Singles']
+cluster 1:
+['Argentina', 'Chile', 'Greece', 'Italy', 'Russia', 'Spain', 'Switzerland', 'Ukraine']
+cluster 2:
+['Australia', 'Netherlands']
+cluster 3:
+['Austria', 'Brazil', 'China', 'France', 'German', 'India', 'Japan']
+
+k=5:
+cluster 0:
+['Belgium', 'Bulgaria', 'China', 'France', 'Greece']
+cluster 1:
+['Austria', 'German', 'Netherlands', 'Switzerland']
+cluster 2:
+['Brazil', 'Canada', 'India', 'Italy', 'USA Singles', 'Ukraine']
+cluster 3:
+['Argentina', 'Chile', 'Japan', 'Russia', 'Spain']
+cluster 4:
+['Australia', 'Denmark', 'Finland', 'Ireland', 'New Zealand', 'Norway', 'Portugal', 'Sweden', 'UK Singles']
+
+k=6:
+cluster 0:
+['Argentina', 'Brazil', 'German', 'Russia']
+cluster 1:
+['Bulgaria', 'Canada', 'New Zealand', 'Sweden', 'USA Singles']
+cluster 2:
+['Ireland', 'Netherlands', 'Ukraine']
+cluster 3:
+['China', 'Denmark', 'India', 'Norway', 'Portugal', 'UK Singles']
+cluster 4:
+['Belgium', 'Finland', 'France', 'Japan', 'Spain', 'Switzerland']
+cluster 5:
+['Australia', 'Austria', 'Chile', 'Greece', 'Italy']
+

@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<title>Song words</title>
+		<script src='js/utils.js'></script>
+		<script src='js/data_tfidf.js'></script>
+		<script src='js/heatmap.js'></script>
+		<script src='js/words_tfidf.js'></script>
+		<script src='js/countries_expected.js'></script>
+		<link rel="stylesheet" href="css/style-shared.css" type="text/css" />
+		<link rel="stylesheet" href="css/style.css" type="text/css" />
+	</head>
+	<body onload="init()" class="whitebody">
+	<nav>
+	<a href="">Home</a>
+	<div class="rightcontainer"><a id="explorermenu" href="" title="Input options"><span class="icon-font">&#59694</span></a></div>
+	</nav>
+	<div class="main2">	
+	<h1>What people sing about</h1>
+	<h2>Top words in top songs per country</h2>
+	<p>Visualization of the ...</p>
+	</div>
+	<div class="activecontainer">
+		<div id="heattable"></div>
+	<div id="figurediv">
+	<figure>
+	<canvas id="canvas.heatmap"></canvas>
+	</figure>
+	</div>
+	</div>
+
+	</body>
+</html>

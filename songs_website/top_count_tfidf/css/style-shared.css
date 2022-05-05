@@ -1,0 +1,28 @@
+body {	
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+nav {
+	position:fixed;
+	top:0;
+	left:0;
+	width:100vw;
+	background: rgba(249, 249, 249,0.8);
+	padding: 1.5ex;
+}
+
+nav a {
+	
+	margin-right: 4ex;
+	font: normal 1.5em 18px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+nav a:link {
+    color: black;	
+	text-decoration:none;
+}
+
+nav a:visited {
+    color: black;	
+	text-decoration:none;
+}

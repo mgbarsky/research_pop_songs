@@ -1,0 +1,581 @@
+country|rating|song|artist
+Argentina|1|No Es Justo|J Balvin, Zion & Lennox
+Argentina|2|X|Nicky Jam & J Balvin
+Argentina|3|Fake Love|BTS
+Argentina|4|Solo Yo|CNCO
+Argentina|5|Calypso|Luis Fonsi & Stefflon Don
+Argentina|6|Vaina Loca|Ozuna & Manuel Turizo
+Argentina|7|Me Niego|Reik, Ozuna & Wisin
+Argentina|8|Se Vuelve Loca|CNCO
+Argentina|9|Familiar|Liam Payne & J Balvin
+Argentina|10|Consejo De Amor|Tini & Morat
+Argentina|11|Que Suerte Tiene El|Luciano Pereyra
+Argentina|12|Dura|Daddy Yankee, Bad Bunny, Becky G & Natti Natasha
+Argentina|13|No Me Acuerdo|Thalia & Natti Natasha
+Argentina|14|Girls Like You|Maroon 5 & Cardi B
+Argentina|15|Siguelo Bailando|Ozuna
+Argentina|16|Te Amo|Piso 21 & Paulo Londra
+Argentina|17|Sin Pijama|Becky G & Natti Natasha
+Argentina|18|Bella|Wolfine
+Argentina|19|El Clavo|Prince Royce & Maluma
+Argentina|20|El Prestamo|Maluma
+Australia|1|In My Feelings|Drake
+Australia|2|Youngblood|5 Seconds Of Summer
+Australia|3|Be Alright|Dean Lewis
+Australia|4|Girls Like You|Maroon 5 & Cardi B
+Australia|5|God Is A Woman|Ariana Grande
+Australia|6|Better Now|Post Malone
+Australia|7|Healing Hands|Conrad Sewell
+Australia|8|2002|Anne-Marie
+Australia|9|Lucid Dreams|Juice WRLD
+Australia|10|Nevermind|Dennis Lloyd
+Australia|11|Solo|Clean Bandit & Demi Lovato
+Australia|12|Eastside|Benny Blanco, Khalid & Halsey
+Australia|13|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Australia|14|Ocean|Martin Garrix & Khalid
+Australia|15|I Said Hi|Amy Shark
+Australia|16|Rise|Jonas Blue, Jack & Jack
+Australia|17|Fire / Reprisal|Peking Duk
+Australia|18|Don't Matter To Me|Drake & Michael Jackson
+Australia|19|I Wanna Know|NOTD & Bea Miller
+Australia|20|Lovely|Billie Eilish & Khalid
+Austria|1|Solo|Clean Bandit & Demi Lovato
+Austria|2|Kennzeichen B-TK|Capital Bra
+Austria|3|Berlin Lebt|Capital Bra
+Austria|4|Neymar|Capital Bra
+Austria|5|Sad!|XXXTentacion
+Austria|6|One Kiss|Calvin Harris & Dua Lipa
+Austria|7|Nevermind|Dennis Lloyd
+Austria|8|Casanova|Summer Cem & Bausa
+Austria|9|One Night Stand|Capital Bra
+Austria|10|Changes|XXXTentacion
+Austria|11|Girls Like You|Maroon 5 & Cardi B
+Austria|12|Toto|Noizy & RAF Camora
+Austria|13|Better Now|Post Malone
+Austria|14|Wann Dann|Capital Bra
+Austria|15|La Cintura|Alvaro Soler
+Austria|16|Back To You|Selena Gomez
+Austria|17|I Like It|Cardi B
+Austria|18|Live It Up|Nicky Jam, Will Smith & Era Istrefi
+Austria|19|Flames|David Guetta & Sia
+Austria|20|Rise|Jonas Blue, Jack & Jack
+Belgium|1|Ellie|Regi & Jake Reese
+Belgium|2|One Kiss|Calvin Harris & Dua Lipa
+Belgium|3|Solo|Clean Bandit & Demi Lovato
+Belgium|4|La Cintura|Alvaro Soler
+Belgium|5|Leave A Light On|Tom Walker
+Belgium|6|Verover Mij|Niels Destadsbader
+Belgium|7|In My Feelings|Drake
+Belgium|8|Flames|David Guetta & Sia
+Belgium|9|Melody|Lost Frequencies & James Blunt
+Belgium|10|Shotgun|George Ezra
+Belgium|11|Zoutelande|Blof & Geike Arnaert
+Belgium|12|No Tears Left To Cry|Ariana Grande
+Belgium|13|Happier|Ed Sheeran
+Belgium|14|Rise|Jonas Blue, Jack & Jack
+Belgium|15|Girls Like You|Maroon 5 & Cardi B
+Belgium|16|Dura|Daddy Yankee
+Belgium|17|Back To You|Selena Gomez
+Belgium|18|When I Grow Up|Dimitri Vegas & Like Mike, Wiz Khalifa
+Belgium|19|I Like It|Cardi B, Bad Bunny & J Balvin
+Belgium|20|Don't Give In|Snow Patrol
+Brazil|1|Largado As Tracas|Ze Neto & Cristiano
+Brazil|2|Ao Vivo E A Cores|Matheus & Kauan, Anitta
+Brazil|3|Propaganda|Jorge & Mateus
+Brazil|4|Apelido Carinhoso|Gusttavo Lima
+Brazil|5|Saideira|Atitude 67 & Thiaguinho
+Brazil|6|12 Horas|Dilsinho
+Brazil|7|MC Lencol E DJ Travesseiro|Luan Santana
+Brazil|8|Alivio Passageiro|Marco Aurelio & Bueno
+Brazil|9|Mais Amor E Menos Drama|Henrique & Juliano
+Brazil|10|Amor Falso|Cleber & Cauan, Aldair Playboy
+Brazil|11|Ponto Fraco|Thiaguinho
+Brazil|12|Amor De Verdade|MC Kekel & MC Rita
+Brazil|13|Quem Ensinou Fui Eu|Maiara & Maraisa
+Brazil|14|Olha Ela Ai|Eduardo Costa
+Brazil|15|Ainda Sou Tao Seu|Felipe Araujo
+Brazil|16|Colecao De Ex|Jefferson Moraes, Matheus & Kauan
+Brazil|17|Ausencia|Marilia Mendonca
+Brazil|18|Bua Bua|Naiara Azevedo
+Brazil|19|My Life Is Going On|Cecilia Krull
+Brazil|20|Ja Convenci|Thiago Brava
+Bulgaria|1|Solo|Clean Bandit & Demi Lovato
+Bulgaria|2|One Kiss|Calvin Harris & Dua Lipa
+Bulgaria|3|Together|4Magic
+Bulgaria|4|Last Train To Paris|KDDK & Arilena Ara
+Bulgaria|5|Chuzdhi Uzmivki|Toto H
+Bulgaria|6|Flames|David Guetta & Sia
+Bulgaria|7|Allegro Ventigo|Dan Balan
+Bulgaria|8|Ring Ring|Jax Jones
+Bulgaria|9|In My Feelings|Drake
+Bulgaria|10|God Is A Woman|Ariana Grande
+Bulgaria|11|Nonstop|Drake
+Bulgaria|12|I Like It|Cardi B, Bad Bunny & J Balvin
+Bulgaria|13|Taste|Tyga & Offset
+Bulgaria|14|Don't Matter To Me|Drake & Michael Jackson
+Bulgaria|15|Apes**t|Carters
+Bulgaria|16|Po Celuvkite|Irina Florin
+Bulgaria|17|Sad!|XXXTentacion
+Bulgaria|18|Girls Like You|Maroon 5 & Cardi B
+Bulgaria|19|Lucid Dreams|Juice WRLD
+Bulgaria|20|Oshhe Ot Teb|Ljubo Kirov
+Canada|1|In My Feelings|Drake
+Canada|2|Girls Like You|Maroon 5 & Cardi B
+Canada|3|I Like It|Cardi B, Bad Bunny & J Balvin
+Canada|4|Fefe|6ix9ine, Nicki Minaj & Murda Beatz
+Canada|5|Body|Loud Luxury & Brando
+Canada|6|One Kiss|Calvin Harris & Dua Lipa
+Canada|7|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Canada|8|Nice For What|Drake
+Canada|9|Taste|Tyga & Offset
+Canada|10|Better Now|Post Malone
+Canada|11|No Tears Left To Cry|Ariana Grande
+Canada|12|Lucid Dreams|Juice WRLD
+Canada|13|God Is A Woman|Ariana Grande
+Canada|14|Back To You|Selena Gomez
+Canada|15|Solo|Clean Bandit & Demi Lovato
+Canada|16|Sad!|XXXTentacion
+Canada|17|The Middle|Zedd, Maren Morris & Grey
+Canada|18|Friends|Marshmello & Anne-Marie
+Canada|19|Psycho|Post Malone & Ty Dolla $ign
+Canada|20|God's Plan|Drake
+Chile|1|Sin Pijama|Becky G & Natti Natasha
+Chile|2|No Es Justo|J Balvin, Zion & Lennox
+Chile|3|No Me Acuerdo|Thalia & Natti Natasha
+Chile|4|Vaina Loca|Ozuna & Manuel Turizo
+Chile|5|Te Bote|Nio Garcia, Casper, Darell, Nicky Jam, Bad Bunny & Ozuna
+Chile|6|X|Nicky Jam & J Balvin
+Chile|7|Mi Cama|Karol G
+Chile|8|La Player (Bandolera)|Zion & Lennox
+Chile|9|Duro Y Suave|Leslie Grace & Noriel
+Chile|10|Me Niego|Reik, Ozuna & Wisin
+Chile|11|Hipocrita|Anuel AA & Zion
+Chile|12|Dura|Daddy Yankee, Bad Bunny, Becky G & Natti Natasha
+Chile|13|Por Perro|Sebastian Yatra, Luis Figueroa & Lary Over
+Chile|14|Clandestino|Shakira & Maluma
+Chile|15|El Prestamo|Maluma
+Chile|16|I Like It|Cardi B, Bad Bunny & J Balvin
+Chile|17|One Kiss|Calvin Harris & Dua Lipa
+Chile|18|1,2,3|Sofia Reyes, Jason Derulo & De La Ghetto
+Chile|19|Calypso|Luis Fonsi & Stefflon Don
+Chile|20|In My Feelings|Drake
+China|1|Hello|Adele
+China|2|Hotline Bling|Drake
+China|3|Lost In Hong Kong Theme Song|Faye Wong
+China|4|Charlotte Trouble|Jin Zhi Wen
+China|5|Same Old Love|Selena Gomez
+China|6|Easy Love|Sigala
+China|7|Sunshine Girl|Moumoon
+China|8|Marvin Gaye|Charlie Puth & Meghan Trainor
+China|9|Himawari No Yakusoku|Motohiro Hata
+China|10|Good Boy|GD X Taeyang
+China|11|On My Mind|Ellie Goulding
+China|12|Downtown|Macklemore & Ryan Lewis, Eric Nally, Melle Mel, Kool Moe Dee And Grandmaster Caz
+China|13|Like I'm Gonna Lose You|Meghan Trainor & John Legend
+China|14|Worth It|Fifth Harmony & Kid Ink
+China|15|Annual Ring|Zhang Bichen
+China|16|Lay It All On Me|Rudimental & Ed Sheeran
+China|17|Stubborn Love|Ronghao Li
+China|18|The Hills|Weeknd
+China|19|Drag Me Down|One Direction
+China|20|Darling|Julia Peng
+Denmark|1|In My Feelings|Drake
+Denmark|2|Youngblood|5 Seconds Of Summer
+Denmark|3|Oui|Sivas, Node & Gilli
+Denmark|4|Don't Matter To Me|Drake & Michael Jackson
+Denmark|5|Solo|Clean Bandit & Demi Lovato
+Denmark|6|Kom Over|Kesi
+Denmark|7|Glad|Bro
+Denmark|8|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Denmark|9|Girls Like You|Maroon 5 & Cardi B
+Denmark|10|Better Now|Post Malone
+Denmark|11|One Kiss|Calvin Harris & Dua Lipa
+Denmark|12|Lucid Dreams|Juice WRLD
+Denmark|13|Taste|Tyga & Offset
+Denmark|14|Sydpa|Bro
+Denmark|15|Body|Loud Luxury & Brando
+Denmark|16|Sad!|XXXTentacion
+Denmark|17|In My Mind|Dynoro & Gigi D'Agostino
+Denmark|18|I Like It|Cardi B, Bad Bunny & J Balvin
+Denmark|19|God Is A Woman|Ariana Grande
+Denmark|20|Rise|Jonas Blue, Jack & Jack
+Finland|1|Solo|Clean Bandit & Demi Lovato
+Finland|2|XTC|Lukas Leon, Etta & Cheek
+Finland|3|Roska Silmas|Tippa & JVG
+Finland|4|Viela Kerran|Evelina
+Finland|5|In My Feelings|Drake
+Finland|6|Jacuzzi|Sanni
+Finland|7|Ignite|Alan Walker & K-391, Julie Bergan & Seungri
+Finland|8|God Is A Woman|Ariana Grande
+Finland|9|Lucid Dreams|Juice WRLD
+Finland|10|Kaksi Ihmista|Haloo Helsinki!
+Finland|11|#ihanaa|Petri Nygard
+Finland|12|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Finland|13|Bang Bang Typera Sydan|Ellinoora & Eetu
+Finland|14|Better Now|Post Malone
+Finland|15|Ysariboi|Dj Oku Luukkainen, Pasi Ja Anssi & Portion Boys
+Finland|16|Girls Like You|Maroon 5 & Cardi B
+Finland|17|Sit Ku Ma Oon Vapaa|Sanni
+Finland|18|Seksihelteet|Hesaaija
+Finland|19|One Kiss|Calvin Harris & Dua Lipa
+Finland|20|Juodaan Viinaa|Yksi Totuus, Makki & Leo
+France|1|Bella Ciao|Naestro, Maitre Gims, Vitaa, Dadju & Slimane
+France|2|La Meme|Maitre Gims & Vianney
+France|3|One Kiss|Calvin Harris & Dua Lipa
+France|4|Ramenez La Coupe A La Maison|Vegedream
+France|5|Alright|Jain
+France|6|Solo|Clean Bandit & Demi Lovato
+France|7|Djadja|Aya Nakamura
+France|8|Girls Like You|Maroon 5 & Cardi B
+France|9|Flames|David Guetta & Sia
+France|10|Magic In The Air|Magic System & Chawki
+France|11|In My Feelings|Drake
+France|12|Ta Mariniere|Hoshi
+France|13|Nevermind|Dennis Lloyd
+France|14|Toto Et Ninetta|JUL
+France|15|Mafiosa|Lartiste & Caroliina
+France|16|Speed|Zazie
+France|17|Something Human|Muse
+France|18|Un Peu De Reve|Vitaa & Claudio Capeo
+France|19|Pour Oublier|Kendji Girac
+France|20|A L'Ammoniaque|PNL
+German|1|Melodien|Capital Bra
+German|2|In My Mind|Dynoro & Gigi D'Agostino
+German|3|500 PS|Bonez MC & RAF Camora
+German|4|Bella Ciao|El Profesor
+German|5|Solo|Clean Bandit & Demi Lovato
+German|6|Zkittlez|Gringo
+German|7|In My Feelings|Drake
+German|8|Je Ne Parle Pas Francais|Namika
+German|9|Body|Loud Luxury
+German|10|Rise|Jonas Blue
+German|11|Mercedes|Eno
+German|12|Nevermind|Dennis Lloyd
+German|13|Casanova|Summer Cem & Bausa
+German|14|Girls Like You|Maroon 5 & Cardi B
+German|15|One Kiss|Calvin Harris & Dua Lipa
+German|16|La Cintura|Alvaro Soler
+German|17|Fur Euch Alle|Bushido, Samra & Capital Bra
+German|18|No Brainer|DJ Khaled & Justin Bieber
+German|19|Ballin|Luciano
+German|20|Oh Child|Robin Schulz
+Greece|1|Thelo Na Se Xanado|Super Sako, Panos Kiamos & BO
+Greece|2|Havana|Camila Cabello & Young Thug
+Greece|3|Agapo Simeni|Giorgos Mazonakis
+Greece|4|Feel It Still|Portugal. The Man
+Greece|5|De S'Agapao|Nikos Economopoulos
+Greece|6|One Kiss|Calvin Harris & Dua Lipa
+Greece|7|Lioma|Konstantinos Argiros
+Greece|8|Flames|David Guetta & Sia
+Greece|9|Fige|Nikos Vertis
+Greece|10|X|Nicky Jam & J Balvin
+Greece|11|No Tears Left To Cry|Ariana Grande
+Greece|12|6 Days|Mahmut Orhan & Colonel Bagshot
+Greece|13|Dusk Till Dawn|Zayn & Sia
+Greece|14|Solo|Clean Bandit & Demi Lovato
+Greece|15|Echame La Culpa|Luis Fonsi & Demi Lovato
+Greece|16|Wish I Knew You|Revivalists
+Greece|17|I Like It|Cardi B, Bad Bunny & J Balvin
+Greece|18|Reggaeton Lento (Bailemos)|CNCO
+Greece|19|Mad Love|Sean Paul & David Guetta
+Greece|20|Breathe|Jax Jones & Ina Wroldsen
+India|1|Hello|Adele
+India|2|All Black|Raftaar & SukhE Muzical Doctorz
+India|3|Bandeyaa|Jubin
+India|4|Ya Baba (Fitna Farebi)|Nakash Aziz
+India|5|Dheere Dheere|Yo Yo Honey Singh
+India|6|DJ Waley Babu|Badshah
+India|7|Wicked Ones|Dorothy
+India|8|Wakhra Swag|Navv Inder
+India|9|Downtown|Macklemore & Ryan Lewis, Eric Nally, Melle Mel, Kool Moe Dee And Grandmaster Caz
+India|10|Baaton Ko Teri|Arijit Singh
+India|11|Cool For The Summer|Demi Lovato
+India|12|Main Hoon Hero Tera|Salman Khan
+India|13|Locked Away|R. City & Adam Levine
+India|14|Around The World|Natalie La Rose & Fetty Wap
+India|15|Fight Song|Rachel Platten
+India|16|Good For You|Selena Gomez & A$ap Rocky
+India|17|Sun Is Shining|Axwell & Ingrosso
+India|18|Where Are U Now|Skrillex, Diplo & Justin Bieber
+India|19|Higher Place|Dimitri Vegas, Like Mike & Ne-Yo
+India|20|What Do You Mean?|Justin Bieber
+Ireland|1|Shotgun|George Ezra
+Ireland|2|In My Feelings|Drake
+Ireland|3|Rise|Jonas Blue, Jack & Jack
+Ireland|4|Solo|Clean Bandit & Demi Lovato
+Ireland|5|Youngblood|5 Seconds Of Summer
+Ireland|6|Girls Like You|Maroon 5 & Cardi B
+Ireland|7|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Ireland|8|No Brainer|DJ Khaled & Justin Bieber
+Ireland|9|If You're Over Me|Years & Years
+Ireland|10|God Is A Woman|Ariana Grande
+Ireland|11|Eastside|Benny Blanco, Khalid & Halsey
+Ireland|12|I Like It|Cardi B, Bad Bunny & J Balvin
+Ireland|13|Don't Matter To Me|Drake & Michael Jackson
+Ireland|14|Better Now|Post Malone
+Ireland|15|Body|Loud Luxury & Brando
+Ireland|16|Lucid Dreams|Juice WRLD
+Ireland|17|Back To You|Selena Gomez
+Ireland|18|Taste|Tyga & Offset
+Ireland|19|Ocean|Martin Garrix & Khalid
+Ireland|20|Only You|Cheat Codes & Little Mix
+Italy|1|Pablo|Rvssian & Sfera Ebbasta
+Italy|2|Amore E Capoeira|Takagi & Ketra, Giusy Ferreri & Sean Kingston
+Italy|3|Da Zero A Cento|Baby K
+Italy|4|Nera|Irama
+Italy|5|Felicita Puttana|Thegiornalisti
+Italy|6|Fotografia|Carl Brave, Francesca Michielin & Fabri Fibra
+Italy|7|Italiana|J-AX & Fedez
+Italy|8|Faccio Quello Che Voglio|Fabio Rovazzi
+Italy|9|In My Feelings|Drake
+Italy|10|Non Ti Dico No|BoomDaBash & Loredana Berte
+Italy|11|La Cintura|Alvaro Soler
+Italy|12|One Kiss|Calvin Harris & Dua Lipa
+Italy|13|Girls Like You|Maroon 5 & Cardi B
+Italy|14|Tesla|Capo Plaza, Sfera Ebbasta & DrefGold
+Italy|15|Nero Bali|Elodie, Michele Bravi & Cue Pequeno
+Italy|16|X|Nicky Jam & J Balvin
+Italy|17|Davide|Gemitaiz & Coez
+Italy|18|Moscow Mule|Benji & Fede
+Italy|19|Te Bote|Nio Garcia, Casper, Darell, Nicky Jam, Bad Bunny & Ozuna
+Italy|20|Moriro Da Re|Maneskin
+Japan|1|Love Me Right (Romantic Universe)|EXO
+Japan|2|Hello|Adele
+Japan|3|Kiss|MACO
+Japan|4|Hello|Da-iCE
+Japan|5|Beautiful|Superfly
+Japan|6|Hotline Bling|Drake
+Japan|7|Star Train|Perfume
+Japan|8|Ima, Hanashitai Dareka Ga Iru|Nogizaka 46
+Japan|9|Laugh Laugh Laugh|GOT7
+Japan|10|Oretachi Rookies|DISH
+Japan|11|One Light|Kalafina
+Japan|12|Burnitup!|Janet Jackson & Missy Elliott
+Japan|13|Christmas Song|Back Number
+Japan|14|Must Be Now|NMB48
+Japan|15|With You|JUJU
+Japan|16|No Verao, As Noites|Sheena Ringo
+Japan|17|Not Enough|Anan Ryoko
+Japan|18|SOS|Sekai No Owari
+Japan|19|Kimi No Kokoro Ha Kagayaiterukai?|Aqours
+Japan|20|Bodyache|Purity Ring
+Netherlands|1|Miljonair|$hirak, SBMG, Lil Kleine, Boef & Ronnie Flex
+Netherlands|2|In My Feelings|Drake
+Netherlands|3|Drama|Bizzey & Boef
+Netherlands|4|Hoe Je Bent|Broederliefde & Frenna
+Netherlands|5|One Kiss|Calvin Harris & Dua Lipa
+Netherlands|6|Lit|SBMG & Boef
+Netherlands|7|Wine Slow (Remix)|Ronnie Flex & Famke Louise
+Netherlands|8|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Netherlands|9|Meli Meli|Ali B & Numidia, Ronnie Flex
+Netherlands|10|Liefde In De Lucht|Kraantje Pappie & Joshua Nolet
+Netherlands|11|Youngblood|5 Seconds Of Summer
+Netherlands|12|Maria|Bizzey & Ronnie Flex, $hirak
+Netherlands|13|Rise|Jonas Blue, Jack & Jack
+Netherlands|14|Solo|Clean Bandit & Demi Lovato
+Netherlands|15|Nightvision|Broederliefde
+Netherlands|16|Ocean|Martin Garrix & Khalid
+Netherlands|17|Dura|Daddy Yankee
+Netherlands|18|Sad!|XXXTentacion
+Netherlands|19|Omarm Me|Ronnie Flex & Boef
+Netherlands|20|Djadja|Aya Nakamura
+New Zealand|1|In My Feelings|Drake
+New Zealand|2|Girls Like You|Maroon 5 & Cardi B
+New Zealand|3|Youngblood|5 Seconds Of Summer
+New Zealand|4|Taste|Tyga & Offset
+New Zealand|5|God Is A Woman|Ariana Grande
+New Zealand|6|Lucid Dreams|Juice WRLD
+New Zealand|7|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+New Zealand|8|I Like It|Cardi B, Bad Bunny & J Balvin
+New Zealand|9|Lovely|Billie Eilish & Khalid
+New Zealand|10|Better Now|Post Malone
+New Zealand|11|Ocean|Martin Garrix & Khalid
+New Zealand|12|2002|Anne-Marie
+New Zealand|13|Eastside|Benny Blanco, Khalid & Halsey
+New Zealand|14|Boo'd Up|Ella Mai
+New Zealand|15|Nice For What|Drake
+New Zealand|16|Praise The Lord (Da Shine)|A$AP Rocky & Skepta
+New Zealand|17|Vibes|Six60
+New Zealand|18|Nevermind|Dennis Lloyd
+New Zealand|19|Sad!|XXXTentacion
+New Zealand|20|Don't Matter To Me|Drake & Michael Jackson
+Norway|1|Sommerkroppen|Mads Hansen
+Norway|2|Ignite|Alan Walker & K-391, Julie Bergan & Seungri
+Norway|3|In My Feelings|Drake
+Norway|4|Solo|Clean Bandit & Demi Lovato
+Norway|5|In My Mind|Dynoro & Gigi D'Agostino
+Norway|6|Youngblood|5 Seconds Of Summer
+Norway|7|Born To Be Yours|Kygo & Imagine Dragons
+Norway|8|Flames|David Guetta & Sia
+Norway|9|Girls Like You|Maroon 5 & Cardi B
+Norway|10|Rise|Jonas Blue, Jack & Jack
+Norway|11|Shotgun|TIX
+Norway|12|Better Now|Post Malone
+Norway|13|Don't Matter To Me|Drake & Michael Jackson
+Norway|14|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Norway|15|Ocean|Martin Garrix & Khalid
+Norway|16|Taste|Tyga & Offset
+Norway|17|God Is A Woman|Ariana Grande
+Norway|18|Nevermind|Dennis Lloyd
+Norway|19|One Kiss|Calvin Harris & Dua Lipa
+Norway|20|Drink About|Seeb & Dagny
+Portugal|1|In My Feelings|Drake
+Portugal|2|X|Nicky Jam & J Balvin
+Portugal|3|Solo|Clean Bandit & Demi Lovato
+Portugal|4|Girls Like You|Maroon 5 & Cardi B
+Portugal|5|Sad!|XXXTentacion
+Portugal|6|Mafiosa|Lartiste & Caroliina
+Portugal|7|Devia Ir|Wet Bed Gang
+Portugal|8|Amor De Verdade|MC Kekel
+Portugal|9|Lucid Dreams|Juice WRLD
+Portugal|10|Te Bote|Nio Garcia, Casper, Darell, Nicky Jam, Bad Bunny & Ozuna
+Portugal|11|Better Now|Post Malone
+Portugal|12|Taste|Tyga & Offset
+Portugal|13|I Like It|Cardi B, Bad Bunny & J Balvin
+Portugal|14|One Kiss|Calvin Harris & Dua Lipa
+Portugal|15|Din Din Din|Ludmilla, MC Pupio & MC Doguinha
+Portugal|16|God Is A Woman|Ariana Grande
+Portugal|17|In My Blood|Shawn Mendes
+Portugal|18|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+Portugal|19|God's Plan|Drake
+Portugal|20|Don't Matter To Me|Drake & Michael Jackson
+Russia|1|We Don't Talk Anymore|Charlie Puth & Selena Gomez
+Russia|2|My Way|Calvin Harris
+Russia|3|Let Me Love You|DJ Snake & Justin Bieber
+Russia|4|I Never Felt So Right|Ben Delay
+Russia|5|Lordly|Feder & Alex Aiono
+Russia|6|Thinking About It|Nathan Goshen
+Russia|7|Lost On You|LP
+Russia|8|Tuesday|Burak Yeter & Danelie Sandoval
+Russia|9|Tvoi Glaza|Loboda
+Russia|10|Ocean Drive|Duke Dumont
+Russia|11|Wide Awake (Red Mix)|Eric Saade, Gustaf Noren, Filatov & Karas
+Russia|12|Tumany|Max Barskih
+Russia|13|Feel|Mahmut Orhan & Sena Sener
+Russia|14|Gradus 100|Gradusi
+Russia|15|Navernopotomuchto|Vriemia & Steklo
+Russia|16|This Girl|Kungs
+Russia|17|Perfect Strangers|Jonas Blue & JP Cooper
+Russia|18|Bonfire|Felix Jaehn & Alma
+Russia|19|J-Mafia|Effective Radio
+Russia|20|Heathens|Twenty One Pilots
+Spain|1|Sin Pijama|Becky G & Natti Natasha
+Spain|2|Vaina Loca|Ozuna & Manuel Turizo
+Spain|3|Ya No Quiero Na|Lola Indigo
+Spain|4|Ni La Hora|Ana Guerra & Juan Magan
+Spain|5|La Cintura|Alvaro Soler
+Spain|6|Te Bote|Nio Garcia, Casper, Darell, Nicky Jam, Bad Bunny & Ozuna
+Spain|7|Usted|Juan Magan & Mala Rodriguez
+Spain|8|In My Feelings|Drake
+Spain|9|Calypso|Luis Fonsi & Stefflon Don
+Spain|10|Mi Cama|Karol G
+Spain|11|Bien Duro|C. Tangana
+Spain|12|Malamente|Rosalia
+Spain|13|1,2,3|Sofia Reyes, Jason Derulo & De La Ghetto
+Spain|14|Dura|Daddy Yankee, Bad Bunny, Becky G & Natti Natasha
+Spain|15|I Like It|Cardi B, Bad Bunny & J Balvin
+Spain|16|Lo Malo|Aitana Ocana & Ana Guerra
+Spain|17|X|Nicky Jam & J Balvin
+Spain|18|No Es Justo|J Balvin, Zion & Lennox
+Spain|19|Me Niego|Reik, Ozuna & Wisin
+Spain|20|Duro Y Suave|Leslie Grace & Noriel
+Sweden|1|In My Feelings|Drake
+Sweden|2|Still|HOV1
+Sweden|3|In My Mind|Dynoro & Gigi D'Agostino
+Sweden|4|Solo|Clean Bandit & Demi Lovato
+Sweden|5|Mer For Varandra|Norlie & KKV, Estrad
+Sweden|6|Fefe|6ix9ine, Nicki Minaj & Murda Beatz
+Sweden|7|No Brainer|DJ Khaled & Justin Bieber
+Sweden|8|Whenever|Kris Kross Amsterdam, The Boy Next Door & Conor Maynard
+Sweden|9|Dancing In The Moonlight|Jubel & Neimy
+Sweden|10|Taste|Tyga & Offset
+Sweden|11|Born To Be Yours|Kygo & Imagine Dragons
+Sweden|12|Don't Matter To Me|Drake & Michael Jackson
+Sweden|13|Ignite|Alan Walker & K-391, Julie Bergan & Seungri
+Sweden|14|Lucid Dreams|Juice WRLD
+Sweden|15|Positiv|Z. E.
+Sweden|16|Rise|Jonas Blue, Jack & Jack
+Sweden|17|Hon Dansar Vidare I Livet|Hov 1
+Sweden|18|Darkside|Alan Walker, Au/Ra & Tomine Harket
+Sweden|19|Youngblood|5 Seconds Of Summer
+Sweden|20|Girls Like You|Maroon 5 & Cardi B
+Switzerland|1|079|Lo & Leduc
+Switzerland|2|Solo|Clean Bandit & Demi Lovato
+Switzerland|3|In My Feelings|Drake
+Switzerland|4|Girls Like You|Maroon 5 & Cardi B
+Switzerland|5|La Cintura|Alvaro Soler
+Switzerland|6|One Kiss|Calvin Harris & Dua Lipa
+Switzerland|7|Nevermind|Dennis Lloyd
+Switzerland|8|Adios|Loco Escrito
+Switzerland|9|Natural|Imagine Dragons
+Switzerland|10|Flames|David Guetta & Sia
+Switzerland|11|Born To Be Yours|Kygo & Imagine Dragons
+Switzerland|12|Rise|Jonas Blue, Jack & Jack
+Switzerland|13|In My Mind|Dynoro & Gigi D'Agostino
+Switzerland|14|I Like It|Cardi B, Bad Bunny & J Balvin
+Switzerland|15|Amore E Capoeira|Takagi & Ketra, Giusy Ferreri & Sean Kingston
+Switzerland|16|Perfect|Ed Sheeran
+Switzerland|17|Calypso|Luis Fonsi & Stefflon Don
+Switzerland|18|X|Nicky Jam & J Balvin
+Switzerland|19|Us Mansch|Bligg & Marc Sway
+Switzerland|20|Je Ne Parlais Pas Francais|Namika & Black M
+UK Singles|1|In My Feelings|Drake
+UK Singles|2|Shotgun|George Ezra
+UK Singles|3|No Brainer|DJ Khaled & Justin Bieber
+UK Singles|4|Rise|Jonas Blue, Jack & Jack
+UK Singles|5|Youngblood|5 Seconds Of Summer
+UK Singles|6|Girls Like You|Maroon 5 & Cardi B
+UK Singles|7|Jackie Chan|Tiesto & Dzeko, Preme & Post Malone
+UK Singles|8|Sicko Mode|Travi$ Scott
+UK Singles|9|Don't Matter To Me|Drake & Michael Jackson
+UK Singles|10|Stargazing|Travi$ Scott
+UK Singles|11|If You're Over Me|Years & Years
+UK Singles|12|Solo|Clean Bandit & Demi Lovato
+UK Singles|13|I'll Be There|Jess Glynne
+UK Singles|14|2002|Anne-Marie
+UK Singles|15|Lucid Dreams|Juice WRLD
+UK Singles|16|In My Blood|Shawn Mendes
+UK Singles|17|The Middle|Zedd, Maren Morris & Grey
+UK Singles|18|Carousel|Travi$ Scott
+UK Singles|19|Flames|David Guetta & Sia
+UK Singles|20|Sad!|XXXTentacion
+USA Singles|1|In My Feelings|Drake
+USA Singles|2|Girls Like You|Maroon 5 & Cardi B
+USA Singles|3|I Like It|Cardi B, Bad Bunny & J Balvin
+USA Singles|4|Sicko Mode|Travi$ Scott
+USA Singles|5|Fefe|6ix9ine, Nicki Minaj & Murda Beatz
+USA Singles|6|No Brainer|DJ Khaled & Justin Bieber
+USA Singles|7|Stargazing|Travi$ Scott
+USA Singles|8|Better Now|Post Malone
+USA Singles|9|Lucid Dreams|Juice WRLD
+USA Singles|10|Te Bote|Nio Garcia, Casper, Darell, Nicky Jam, Bad Bunny & Ozuna
+USA Singles|11|Taste|Tyga & Offset
+USA Singles|12|Boo'd Up|Ella Mai
+USA Singles|13|The Middle|Zedd, Maren Morris & Grey
+USA Singles|14|Nice For What|Drake
+USA Singles|15|Friends|Marshmello & Anne-Marie
+USA Singles|16|Sandra's Rose|Drake
+USA Singles|17|One Kiss|Calvin Harris & Dua Lipa
+USA Singles|18|Love Lies|Khalid & Normani
+USA Singles|19|Don't Matter To Me|Drake & Michael Jackson
+USA Singles|20|Get Along|Kenny Chesney
+Ukraine|1|Solo|Clean Bandit & Demi Lovato
+Ukraine|2|One Kiss|Calvin Harris & Dua Lipa
+Ukraine|3|Flames|David Guetta & Sia
+Ukraine|4|In My Mind|Dynoro & Gigi D'Agostino
+Ukraine|5|Ona|Gradusi
+Ukraine|6|Better Now|Post Malone
+Ukraine|7|Drunk Groove|Maruv & Boosin
+Ukraine|8|Hands Up|Merk & Kremont
+Ukraine|9|Medina|Jah Khalib
+Ukraine|10|Friends|Marshmello & Anne-Marie
+Ukraine|11|Breathe|Jax Jones & Ina Wroldsen
+Ukraine|12|Day By Day|Swanky Tunes & LP
+Ukraine|13|DJ Is Your Second Name|C-Bool & Giang Pham
+Ukraine|14|In My Feelings|Drake
+Ukraine|15|DNK|Dzhigan & Artem Kacher
+Ukraine|16|Magic|Tim3bomb & Tim Schou
+Ukraine|17|La Cintura|Alvaro Soler
+Ukraine|18|Trust Me|L. B. One & Laenz
+Ukraine|19|Ne Modnye|Elena Temnikova
+Ukraine|20|Back To Me|Vanotek & Eneli

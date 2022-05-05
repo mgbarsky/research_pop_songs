@@ -1,0 +1,1 @@
+var words = ["hello", "love", "burn", "right", "dance", "like", "know", "day", "lay", "need", "tell", "girl", "way", "weekend", "mind", "taste", "said", "watch", "tempo", "give", "hard", "come", "crazy", "gave", "bad", "ciao", "air", "life", "born", "baby", "look", "cause"]

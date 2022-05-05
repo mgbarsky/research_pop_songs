@@ -1,0 +1,233 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<title>What People Sing About?</title>
+		<link rel='icon' href="css/globe.png">
+		<!-- <link rel='stylesheet' href='css/style-shared.css' type='text/css'> -->
+		<link rel='stylesheet' href='css/style.css' type='text/css'>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.1/css/all.css" integrity="sha384-O8whS3fhG2OnA5Kas0Y9l3cfpmYjapjI0E4theH4iuMD+pLhbf6JI0jIMfYcK3yZ" crossorigin="anonymous">
+	</head>
+
+
+	<body data-spy="scroll" data-target="#navbarSupportedContent" data-offset="150">
+		<!--navbar-->
+    <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top" id="navbar">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">          
+          <li class="nav-item">
+            <a class="nav-link" href="#procedures">Dataset</a>
+          </li>
+		  <li class="nav-item">
+            <a class="nav-link" href="#analytics">Analytics</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#results">Results</a>
+          </li>
+		<li class="nav-item">
+            <a class="nav-link" href="#future">Future Work</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+		<!--jumbotron-->
+		<div class="jumbotron" id="jumbotron">
+			<div id='transbox'>
+				<h1 class='display-3 jumbotron-text'>What People Sing About?</h1>
+				<p class='lead jumbotron-text'>The goal of this project is to analyze and compare songs
+				that occupy top chart positions in different countries 
+				- to discover similarities and differences, 
+				and ultimately to answer the question if the popular songs content reflects 
+				cultural differences between people around the world.
+				 The top-charts data for the following 29 countries are analyzed in this project: 
+				 Argentina, Australia, Austria, Belgium,
+					Brazil, Bulgaria, Canada, Chile, China, Denmark, Finland, France, German, Greece, India,
+					Ireland, Italy, Japan, Netherlands, New Zealand, Norway, Portugal, Russia, Spain, Sweden,
+					Switzerland, UK, Ukraine, and USA.</p>
+			</div>
+		</div>
+
+		<!--procedures-->
+		<div class='procedures' id='procedures'>
+			<h1 class='display-4'>Dataset</h1>
+			<div class="card mb-3">
+				<img class="card-img-top" src="css/phase1.png" alt="Card image cap">
+				<div class="card-body">
+					<h5 class="card-title">Creating international lyrics dataset</h5>
+					<details class="card-text">
+					<summary>Scrapping chart data.</summary> 
+					We scrape a real-time data about top 20 songs for each country 
+					from <a href="http://top40-charts.com/" target="_blank">top40-charts.com</a>. 
+					This includes song names, artists, rankings, and date. The songs ratings per country 
+					for a sample dataset from 18 Aug 2018 
+					can be found <a href="datasets/top_songs.txt" target="_blank">here</a>.
+					</details>
+					<details><summary>Lyrics search.</summary>
+					We search for the lyrics
+					of all songs using <a href='https://www.google.com/' target="_blank">Google</a> 
+					and <a href='https://genius.com/' target="_blank">Genius Lyrics</a> search. 
+					The rate of success is around 78%. 
+					</details>
+					<details><summary>Translation to common language (English).</summary>
+					We then translate all the lyrics to English by using Google Translate 
+					and Google Apps Script. 					
+					</details>
+					<details><summary>SQLite database.</summary>
+					We insert data about songs, artists and countries into a database. 
+					Then we clean the lyrics, 
+					parse it into words, remove stop words and finally lemmatize the words. 
+					The list of keywords per song 
+					can be found <a href="datasets/song_keywords_dataset.csv" target="_blank">here</a>, 
+					and the list of keywords per country 
+					<a href="datasets/country_keywords_dataset.csv" target="_blank">here</a>.
+					The full Database schema can be found 
+					<a href="datasets/songs.sql" target="_blank">here</a>, and sample SQLite database 
+					can be downloaded from <a href="datasets/songs.db">here</a>.
+					</details>
+					<p>The steps for data collection phase are fully described 
+					<a href="https://src-code.simons-rock.edu/git/mbarsky/pop_songs_project/src/master/DATA_COLLECTION.md" target="_blank">here</a>.</p>
+				</div>
+			</div>			
+		</div>
+<!--analytics-->
+		<div class='procedures' id='analytics'>
+<h1 class='display-4'>Analytics</h1>		
+			<div class="card mb-3">
+				<img class="card-img-top" src="css/phase2.png" alt="Card image cap">
+				<div class="card-body">
+					<h5 class="card-title">Data analysis</h5>
+					We perform a series of experiments:
+					<details><summary>Top words per country.</summary>
+					Here we produce 10 words that occur most frequently in lyrics of different countries.
+					We then produce a 7-word country lyrics signature -
+					i.e. seven words with top tf-idf scores - 
+					most helpful in distinguishing one set of documents from another.
+					</details>
+					<details><summary>Topic modeling</summary>
+					Using <a href="https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24" target="_blank">LDA</a> we extract from song lyrics
+					three major themes (topics), tentatively name each topic, 
+					and assign the topic with the largest score to each song. See the results 
+					 with top words per topic <a href="topic_modeling/SongTopics11.pdf" target="_blank">here</a>.
+					 The assignment of a topic for each song can be 
+					 seen <a href="topic_modeling/document_topics11_pdf.pdf" target="_blank">here</a>.
+					 As you can see, most songs belong to one of the 
+					 three major categories: light songs, sad songs, and aggressive songs. 
+					 We then generate topic distribution per country.
+					</details>
+					<details><summary>Clustering countries by content of their lyrics.</summary>
+					We use hierarchical clustering to create clusters of countries based on song words.
+					The clustering based on total word counts uses Tanimoto distance, 
+					and the clustering based on tf-idf scores uses Pearson correlation.
+					</details>
+				<p>The steps for data analytics phase are fully described <a href="https://src-code.simons-rock.edu/git/mbarsky/pop_songs_project/src/master/DATA_ANALYSIS.md" target="_blank">here</a>.</p>					
+				</div>
+			</div>
+		</div>
+
+		<!--results-->
+		<div class='results' id='results'>
+			<h1 class='display-4'>Results</h1>
+			<div class="card text-center">
+			  <div class="card-header" id="results-tab">
+			    <ul class="nav nav-tabs card-header-tabs">
+			      <li class="nav-item">
+			        <a class="nav-link active" id="heatmap-tab" data-toggle="tab" href="#heatmap" role="tab" aria-controls="heatmap" aria-selected="true">Top words</a>
+			      </li>
+			      <li class="nav-item">
+			        <a class="nav-link" id="tm-tab" data-toggle="tab" href="#tm" role="tab" aria-controls="tm" aria-selected="false">Topic Modeling</a>
+			      </li>
+				  <li class="nav-item">
+			        <a class="nav-link" id="cluster-tab" data-toggle="tab" href="#cluster" role="tab" aria-controls="cluster" aria-selected="false">Clusters</a>
+			      </li>			      
+			    </ul>
+			  </div>
+			  <div class="card-body tab-content">
+					<div class="tab-pane fade show active" id="heatmap" role="tabpanel" aria-labelledby="heatmap-tab">
+						<h5 class="card-title">Top Words</h5>
+						<p class="card-text">We created two visualizations to show the most frequent 
+						lyrics words in each country. One is based on the total number of words, 
+						and the other one is based on the
+							tf-idf score of each word.</p>
+						<a href="top_count_words" class="btn results_button">Top words w/ Counts</a>
+						<a href="top_count_tfidf" class="btn results_button">Top words w/ tf-idf</a>
+					</div>
+
+					<div class="tab-pane fade" id="cluster" role="tabpanel" aria-labelledby="cluster-tab">
+						<h5 class="card-title">Country clusters</h5>						
+						<br></br>
+						<h6 class="card-title">Hierarchical Clustering with Tanimoto Distance based on Counts</h6>
+						<img src="tanimoto.jpg" class="img-fluid" alt="Responsive image">
+						<br></br>
+						<br></br>
+						<h6 class="card-title">Hierarchical Clustering with Pearson Distance based on tf-idf Score</h6>
+						<img src="pearson.jpg" class="img-fluid" alt="Responsive image">
+						</div>
+
+					<div class="tab-pane fade" id="tm" role="tabpanel" aria-labelledby="tm-tab">
+						<h5 class="card-title">Distribution of topics per country</h5>						
+						<br></br>
+						<h6 class="card-title">Proportion of light songs (topic 4)</h6>
+						<img src="topic_modeling/topic4_light.jpg" class="img-fluid" alt="Responsive image">
+						<br></br>
+						<br></br>
+						<h6 class="card-title">Proportion of sad songs (topic 9)</h6>
+						<img src="topic_modeling/topic9_sad.jpg" class="img-fluid" alt="Responsive image">
+						<br></br>
+						<br></br>
+						<h6 class="card-title">Proportion of aggressive songs (topic 8)</h6>
+						<img src="topic_modeling/topic8_aggressive.jpg" class="img-fluid" alt="Responsive image">
+					
+					</div>
+
+			  </div>
+			</div>
+		</div>
+
+		<!--futurework-->
+		<div class='future' id='future'>
+			<h1 class='display-4'>Future Work</h1>
+			<div class="card">
+			  <div class="card-body">
+					This research project has a lot of space for future improvement. 
+					For example, some song lyrics were
+					not found on Google or Genius websites, making datasets for Chinese, Japanese,
+					and Ukrainian songs disproportionally small. 
+					Including more lyric sources could help with solving this problem.
+					<br></br>
+					We also missing data from Middle Eastern and African countries, as they are not 
+					represented in these charts. It would be interesting to see how 
+					different are the popular songs in these countries, 
+					similar to what we discovered about Asian countries 
+					that differ significantly by their vocabulary from European and American songs.
+					<br></br>
+					Note also that some charts on Top40-Charts.com are last updated in 2015 or 2016, 
+					so not all countries have the most up-to-date charts. 
+					So it may be the case that we are comparing songs for different time periods.
+					<br></br>
+			    The analytics part of this project can be extended to 
+				analyzing and comparing song emotions, use of offensive language, 
+				use of personal pronouns, use of methaphors and similes, and improved topic modeling, to name a few.
+			  </div>
+			</div>
+		</div>
+
+		<!--footer-->
+		<footer>
+			<p>Research was conducted by Ziyi Liu under supervision of <a href="http://hope.simons-rock.edu/~mbarsky/" target="_blank">Marina Barsky</a>.</p>
+			<p>Project code: <a href="https://src-code.simons-rock.edu/git/mbarsky/pop_songs_project/src/master" target="_blank">git repository</a></p>
+			<p>Please direct any questions to <a href="mailto:mbarsky@simons-rock.edu" target="_blank">mbarsky@simons-rock.edu</a></p>
+			<small>&copy; Copyright 2018 Simon's Rock</small>
+		</footer>
+		<script src="libs/jquery-3.3.1.slim.min.js"></script>
+ 
+    <script src="libs/bootstrap.min.js"></script>
+    <!--for popover-->
+	
+	</body>
+</html>
